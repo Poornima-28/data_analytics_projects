@@ -5,7 +5,6 @@ Hundreds of free advertisements for vehicles are published on the company’s si
 Task: Find factors that influence the price of a vehicle
 
 Description of the data
-The dataset contains the following fields:
 
 price
 model_year
