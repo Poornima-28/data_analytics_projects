@@ -1,4 +1,5 @@
 Project Description
+
 The analytical department at Yandex.Afisha wants help from an analyst to help optimise marketing expenses
 
 Given :
