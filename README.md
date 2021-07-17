@@ -8,6 +8,7 @@ The report created will be considered when buiding a credit score for a potentia
 
 Task : Identitfy the relationship between customer's marital status, number of children and loan defaulting
 
+<br>
 
 2. Exploratory Data Analysis
 
